@@ -1,0 +1,506 @@
+id,date,person,category,description,amount,payment_method,note
+109,2024-01-01,Rohan Das,Utilities,Gas Bill,1272.41,UPI,
+306,2024-01-04,Priya Sharma,Travel,Flight Booking,5511.62,UPI,Reference #4791
+398,2024-01-05,Sunita Patel,Rent & Housing,Water Bill,9637.1,Net Banking,
+490,2024-01-05,Arjun Mehta,Food & Dining,Cafe Coffee,1745.78,Debit Card,
+85,2024-01-06,Anita Joshi,Entertainment,Movie Ticket,624.91,Net Banking,Reference #2402
+451,2024-01-07,Sunita Patel,Shopping,Meesho Order,4602.38,UPI,
+80,2024-01-07,Sunita Patel,Food & Dining,Cafe Coffee,1654.1,UPI,
+308,2024-01-07,Priya Sharma,Food & Dining,Swiggy Delivery,1423.94,Cash,
+411,2024-01-07,Priya Sharma,Education,Udemy Purchase,1129.07,Cash,Reference #3141
+394,2024-01-07,Anita Joshi,Food & Dining,,2160.85,Credit Card,Reference #8729
+382,2024-01-07,Anita Joshi,Food & Dining,Grocery Shopping,2232.94,Debit Card,Reference #3162
+138,2024-01-08,Anita Joshi,Transportation,Metro Card Recharge,643.01,Debit Card,
+316,2024-01-09,Priya Sharma,Food & Dining,Swiggy Delivery,2141.03,Credit Card,
+287,2024-01-09,Rohan Das,Health & Medical,Pharmacy,2815.09,Credit Card,Reference #2102
+425,2024-01-11,Priya Sharma,Food & Dining,Cafe Coffee,1543.99,Net Banking,Reference #1011
+280,2024-01-12,Anita Joshi,Transportation,Petrol Fill,655.19,UPI,
+400,2024-01-13,Arjun Mehta,Food & Dining,Swiggy Delivery,2337.75,Credit Card,
+77,2024-01-14,Arjun Mehta,Travel,Taxi for Trip,1310.74,Debit Card,Reference #7149
+333,2024-01-14,Anita Joshi,Food & Dining,Cafe Coffee,1942.28,Wallet,
+2,2024-01-16,Anita Joshi,Food & Dining,Restaurant Bill,1112.61,Cash,
+355,2024-01-16,Rohan Das,Shopping,Flipkart Order,596.82,UPI,Reference #5785
+220,2024-01-17,Sunita Patel,Transportation,Bus Pass,762.1,Net Banking,
+312,2024-01-17,Priya Sharma,Health & Medical,Medicine,2588.84,Cash,Reference #7213
+447,2024-01-18,Priya Sharma,Transportation,Metro Card Recharge,690.45,Net Banking,
+395,2024-01-19,Arjun Mehta,Food & Dining,Home Cooked Supplies,2404.82,Net Banking,Reference #7870
+265,2024-01-20,Arjun Mehta,Shopping,Flipkart Order,3670.96,UPI,
+191,2024-01-20,Anita Joshi,Education,Books & Stationery,4476.57,Wallet,
+45,2024-01-21,Sunita Patel,Utilities,Mobile Recharge,1234.96,Cash,
+497,2024-01-24,Sunita Patel,Transportation,Bus Pass,136.93,Cash,Reference #3793
+397,2024-01-24,Priya Sharma,Food & Dining,Zomato Order,2030.41,UPI,
+288,2024-01-25,Priya Sharma,Transportation,,554.02,Credit Card,
+414,2024-01-26,Sunita Patel,Food & Dining,Swiggy Delivery,2361.47,Credit Card,
+72,2024-01-26,Rohan Das,Food & Dining,Cafe Coffee,1208.08,Debit Card,Reference #6363
+353,2024-01-28,Arjun Mehta,Rent & Housing,Monthly Rent,8412.01,Cash,Reference #8939
+476,2024-01-28,Sunita Patel,Transportation,Metro Card Recharge,138.34,Wallet,
+10,2024-01-29,Anita Joshi,Food & Dining,Zomato Order,878.28,Credit Card,
+289,2024-01-29,Arjun Mehta,Shopping,Clothing Store,3821.05,Credit Card,
+384,2024-01-31,Priya Sharma,Rent & Housing,Society Charges,3477.92,Cash,Reference #9300
+500,2024-01-31,Arjun Mehta,Food & Dining,Zomato Order,1770.81,Credit Card,
+291,2024-02-01,Anita Joshi,Food & Dining,Swiggy Delivery,821.2,Net Banking,
+210,2024-02-02,Rohan Das,Health & Medical,Medicine,2453.34,Wallet,Reference #1605
+450,2024-02-04,Sunita Patel,Rent & Housing,Room Rent,11725.24,Net Banking,
+38,2024-02-05,Sunita Patel,Food & Dining,Grocery Shopping,937.62,Credit Card,Reference #5669
+376,2024-02-05,Arjun Mehta,Health & Medical,Gym Membership,2063.7,Net Banking,
+123,2024-02-05,Rohan Das,Utilities,Internet Bill,246.67,Net Banking,
+224,2024-02-07,Rohan Das,Food & Dining,Restaurant Bill,425.75,UPI,
+404,2024-02-08,Anita Joshi,Food & Dining,Swiggy Delivery,2067.91,Net Banking,
+98,2024-02-08,Priya Sharma,Food & Dining,Zomato Order,517.15,Credit Card,
+315,2024-02-08,Anita Joshi,Transportation,Petrol Fill,84.92,Wallet,
+172,2024-02-09,Priya Sharma,Transportation,Metro Card Recharge,394.82,Debit Card,
+318,2024-02-10,Arjun Mehta,Education,Books & Stationery,3601.9,Net Banking,Reference #1879
+371,2024-02-12,Sunita Patel,Food & Dining,Home Cooked Supplies,965.04,Debit Card,Reference #3711
+341,2024-02-13,Priya Sharma,Shopping,Grocery Mart,1618.07,Credit Card,Reference #3321
+270,2024-02-14,Rohan Das,Education,Online Course,2818.76,UPI,
+366,2024-02-17,Priya Sharma,Utilities,DTH Recharge,1301.32,UPI,
+112,2024-02-17,Sunita Patel,Shopping,Amazon Purchase,2850.81,Credit Card,
+498,2024-02-17,Rohan Das,Travel,Hotel Stay,2512.32,Debit Card,Reference #3996
+437,2024-02-17,Priya Sharma,Shopping,Meesho Order,4511.0,Credit Card,
+314,2024-02-18,Sunita Patel,Shopping,Amazon Purchase,4318.21,UPI,Reference #4764
+362,2024-02-18,Anita Joshi,Personal Care,Spa,1051.02,Credit Card,
+246,2024-02-19,Anita Joshi,Entertainment,OTT Platform,325.74,UPI,
+27,2024-02-20,Priya Sharma,Health & Medical,Medicine,2954.08,Cash,
+97,2024-02-20,Anita Joshi,Food & Dining,Home Cooked Supplies,2404.26,Credit Card,Reference #4457
+378,2024-02-21,Rohan Das,Utilities,Electricity Bill,312.69,Net Banking,Reference #7291
+421,2024-02-21,Anita Joshi,Personal Care,Skincare Products,1463.57,Credit Card,
+262,2024-02-21,Anita Joshi,Food & Dining,Grocery Shopping,658.81,UPI,Reference #8739
+375,2024-02-22,Rohan Das,Food & Dining,Grocery Shopping,20202.021793816904,Debit Card,Reference #5902
+393,2024-02-22,Arjun Mehta,Transportation,Uber Ride,241.34,Net Banking,Reference #2889
+436,2024-02-23,Priya Sharma,Rent & Housing,,6824.6,Net Banking,Reference #7151
+130,2024-02-24,Arjun Mehta,Personal Care,Spa,1294.67,Credit Card,
+337,2024-02-25,Anita Joshi,Shopping,Grocery Mart,4589.13,UPI,Reference #6816
+253,2024-02-26,Arjun Mehta,Food & Dining,Zomato Order,2375.69,Credit Card,Reference #8225
+442,2024-02-29,Sunita Patel,Personal Care,Spa,763.0,Debit Card,
+40,2024-02-29,Priya Sharma,Travel,,1507.18,Cash,Reference #3546
+52,2024-02-29,Sunita Patel,Transportation,Metro Card Recharge,788.18,UPI,Reference #4114
+284,2024-03-01,Anita Joshi,Food & Dining,Swiggy Delivery,2164.69,Credit Card,
+350,2024-03-01,Anita Joshi,Food & Dining,,421.47,Credit Card,Reference #2916
+145,2024-03-03,Sunita Patel,Food & Dining,Zomato Order,762.12,UPI,
+226,2024-03-03,Arjun Mehta,Education,Udemy Purchase,2789.4,Credit Card,
+62,2024-03-03,Anita Joshi,Transportation,Bus Pass,468.05,UPI,
+213,2024-03-04,Priya Sharma,Utilities,DTH Recharge,631.5,UPI,
+461,2024-03-04,Rohan Das,Shopping,Flipkart Order,3249.97,Debit Card,
+230,2024-03-07,Anita Joshi,Health & Medical,Gym Membership,627.69,UPI,
+135,2024-03-08,Sunita Patel,Entertainment,OTT Platform,433.72,Net Banking,
+370,2024-03-08,Rohan Das,Food & Dining,,1752.62,Wallet,
+279,2024-03-08,Anita Joshi,Transportation,Auto Rickshaw,91.73,Net Banking,
+274,2024-03-09,Sunita Patel,Transportation,Bus Pass,215.64,UPI,
+485,2024-03-09,Sunita Patel,Transportation,Auto Rickshaw,565.09,Debit Card,
+406,2024-03-10,Sunita Patel,Food & Dining,Zomato Order,2364.53,Net Banking,Reference #3546
+13,2024-03-11,Rohan Das,Transportation,Auto Rickshaw,797.99,Net Banking,
+196,2024-03-11,Arjun Mehta,Education,Online Course,4105.67,Debit Card,
+351,2024-03-11,Arjun Mehta,Shopping,Electronics,2207.55,Debit Card,
+221,2024-03-11,Sunita Patel,Transportation,Petrol Fill,107.66,Net Banking,Reference #7521
+360,2024-03-12,Anita Joshi,Health & Medical,Pharmacy,581.35,Credit Card,
+101,2024-03-13,Arjun Mehta,Health & Medical,Doctor Consultation,2734.39,Cash,
+402,2024-03-13,Arjun Mehta,Transportation,Petrol Fill,770.89,Wallet,Reference #2524
+164,2024-03-13,Arjun Mehta,Shopping,Amazon Purchase,2123.76,UPI,
+363,2024-03-15,Arjun Mehta,Entertainment,OTT Platform,352.11,Wallet,
+259,2024-03-15,Rohan Das,Education,Online Course,4795.74,Debit Card,
+75,2024-03-19,Arjun Mehta,Food & Dining,Restaurant Bill,148.91,Credit Card,
+157,2024-03-19,Sunita Patel,Health & Medical,Medicine,1185.47,Wallet,Reference #2099
+177,2024-03-19,Arjun Mehta,Rent & Housing,,5081.99,UPI,
+322,2024-03-19,Arjun Mehta,Transportation,Auto Rickshaw,637.92,Wallet,Reference #6188
+166,2024-03-20,Anita Joshi,Shopping,Meesho Order,4440.04,Credit Card,
+190,2024-03-20,Rohan Das,Food & Dining,,2499.94,Cash,
+121,2024-03-20,Arjun Mehta,Transportation,Auto Rickshaw,541.09,Cash,Reference #5342
+165,2024-03-21,Arjun Mehta,Transportation,Petrol Fill,390.23,Debit Card,
+428,2024-03-21,Sunita Patel,Rent & Housing,Society Charges,4637.42,UPI,
+369,2024-03-21,Rohan Das,Food & Dining,Cafe Coffee,2330.64,UPI,
+263,2024-03-21,Arjun Mehta,Food & Dining,Home Cooked Supplies,1420.85,UPI,
+240,2024-03-22,Rohan Das,Utilities,Gas Bill,743.58,Cash,Reference #6123
+432,2024-03-26,Priya Sharma,Food & Dining,Zomato Order,2457.71,Wallet,
+327,2024-03-26,Sunita Patel,Rent & Housing,Society Charges,4751.22,Net Banking,
+313,2024-03-28,Rohan Das,Food & Dining,Cafe Coffee,122.68,Cash,
+383,2024-03-29,Anita Joshi,Transportation,Ola Cab,459.77,UPI,
+352,2024-03-29,Anita Joshi,Entertainment,Movie Ticket,1325.99,Net Banking,Reference #9022
+209,2024-03-30,Sunita Patel,Shopping,Grocery Mart,4104.84,UPI,
+496,2024-03-30,Sunita Patel,Rent & Housing,Water Bill,3600.96,Cash,
+105,2024-03-30,Sunita Patel,Shopping,Grocery Mart,3862.92,Debit Card,
+148,2024-03-30,Arjun Mehta,Personal Care,Salon Visit,856.3,Cash,Reference #3159
+426,2024-03-31,Anita Joshi,Food & Dining,Zomato Order,413.17,Debit Card,Reference #1359
+126,2024-04-02,Anita Joshi,Transportation,Bus Pass,561.35,Credit Card,
+345,2024-04-04,Rohan Das,Food & Dining,Home Cooked Supplies,1072.11,Credit Card,Reference #8080
+443,2024-04-04,Sunita Patel,Food & Dining,Cafe Coffee,13961.57028949869,Debit Card,Reference #7052
+222,2024-04-05,Sunita Patel,Food & Dining,,372.28,UPI,
+114,2024-04-07,Arjun Mehta,Transportation,Metro Card Recharge,158.48,Net Banking,
+296,2024-04-07,Sunita Patel,Food & Dining,Grocery Shopping,1839.0,Cash,
+472,2024-04-07,Priya Sharma,Shopping,Grocery Mart,4974.82,Credit Card,
+268,2024-04-08,Arjun Mehta,Utilities,Internet Bill,808.43,Cash,
+59,2024-04-11,Arjun Mehta,Health & Medical,Doctor Consultation,751.46,Credit Card,Reference #1757
+301,2024-04-14,Rohan Das,Entertainment,OTT Platform,708.44,Debit Card,Reference #7781
+493,2024-04-16,Sunita Patel,Food & Dining,Cafe Coffee,1415.53,Wallet,Reference #6416
+84,2024-04-18,Rohan Das,Utilities,Internet Bill,436.39,Net Banking,Reference #6576
+367,2024-04-18,Anita Joshi,Transportation,Petrol Fill,776.1,UPI,
+298,2024-04-18,Sunita Patel,Rent & Housing,Monthly Rent,13907.93,Cash,
+30,2024-04-19,Arjun Mehta,Food & Dining,Zomato Order,1265.54,UPI,Reference #3697
+242,2024-04-20,Rohan Das,Shopping,Amazon Purchase,4840.1,Debit Card,Reference #1828
+467,2024-04-21,Rohan Das,Utilities,Gas Bill,796.7,Net Banking,
+175,2024-04-23,Rohan Das,Utilities,Mobile Recharge,1169.55,Net Banking,
+464,2024-04-23,Anita Joshi,Entertainment,Movie Ticket,507.21,Wallet,Reference #4387
+431,2024-04-23,Sunita Patel,Utilities,Electricity Bill,1457.79,UPI,Reference #9129
+339,2024-04-23,Rohan Das,Food & Dining,Home Cooked Supplies,336.66,Net Banking,
+1,2024-04-24,Priya Sharma,Food & Dining,Home Cooked Supplies,760.07,Credit Card,
+74,2024-04-24,Anita Joshi,Food & Dining,Zomato Order,2384.61,Wallet,
+444,2024-04-25,Priya Sharma,Rent & Housing,Room Rent,8580.7,Cash,Reference #2009
+320,2024-04-26,Sunita Patel,Education,College Fee,2527.48,Debit Card,
+104,2024-04-27,Sunita Patel,Health & Medical,Gym Membership,175.01,Wallet,
+132,2024-04-27,Rohan Das,Education,Books & Stationery,4563.21,Net Banking,
+23,2024-04-27,Priya Sharma,Transportation,Bus Pass,491.23,Net Banking,Reference #1117
+147,2024-04-29,Anita Joshi,Food & Dining,Restaurant Bill,618.28,Debit Card,Reference #1046
+34,2024-04-30,Arjun Mehta,Food & Dining,Zomato Order,263.11,UPI,
+359,2024-05-01,Priya Sharma,Transportation,Uber Ride,795.47,Credit Card,
+299,2024-05-02,Anita Joshi,Entertainment,OTT Platform,853.6,Net Banking,Reference #5637
+381,2024-05-02,Rohan Das,Rent & Housing,Monthly Rent,3654.83,Net Banking,
+203,2024-05-02,Sunita Patel,Food & Dining,Home Cooked Supplies,392.44,UPI,Reference #8489
+470,2024-05-03,Sunita Patel,Food & Dining,,1341.5,Cash,
+174,2024-05-04,Sunita Patel,Food & Dining,Swiggy Delivery,2126.76,UPI,
+303,2024-05-05,Arjun Mehta,Rent & Housing,Water Bill,7558.08,Net Banking,
+9,2024-05-05,Priya Sharma,Health & Medical,Medicine,596.3,Credit Card,Reference #7216
+358,2024-05-06,Rohan Das,Food & Dining,Zomato Order,2092.17,Debit Card,Reference #8368
+95,2024-05-07,Anita Joshi,Travel,Taxi for Trip,1138.86,Cash,
+232,2024-05-08,Anita Joshi,Utilities,Gas Bill,1299.71,Net Banking,Reference #5496
+295,2024-05-10,Anita Joshi,Shopping,Grocery Mart,2064.41,Credit Card,
+76,2024-05-11,Anita Joshi,Travel,Flight Booking,3987.75,Debit Card,
+260,2024-05-11,Priya Sharma,Transportation,Auto Rickshaw,381.78,Wallet,Reference #4505
+495,2024-05-11,Anita Joshi,Food & Dining,Restaurant Bill,1836.58,Wallet,
+390,2024-05-12,Anita Joshi,Shopping,Flipkart Order,4148.03,Credit Card,
+272,2024-05-13,Sunita Patel,Shopping,Grocery Mart,2949.81,Debit Card,Reference #4871
+271,2024-05-13,Rohan Das,Rent & Housing,Society Charges,5976.57,Net Banking,
+492,2024-05-14,Priya Sharma,Shopping,Flipkart Order,3123.21,UPI,
+149,2024-05-15,Arjun Mehta,Shopping,Grocery Mart,275.75,Credit Card,
+36,2024-05-15,Arjun Mehta,Health & Medical,Pharmacy,1011.13,UPI,
+51,2024-05-15,Sunita Patel,Food & Dining,Zomato Order,2410.08,Cash,Reference #8119
+364,2024-05-17,Rohan Das,Shopping,Electronics,2971.64,Debit Card,Reference #8405
+396,2024-05-18,Arjun Mehta,Transportation,Metro Card Recharge,590.22,Cash,Reference #7108
+261,2024-05-19,Anita Joshi,Rent & Housing,Room Rent,9744.22,Net Banking,Reference #4920
+258,2024-05-20,Rohan Das,Rent & Housing,Room Rent,7185.64,Net Banking,Reference #9899
+286,2024-05-21,Arjun Mehta,Food & Dining,Home Cooked Supplies,930.78,Credit Card,Reference #2848
+90,2024-05-21,Arjun Mehta,Food & Dining,Swiggy Delivery,1872.65,Wallet,
+454,2024-05-21,Anita Joshi,Health & Medical,Pharmacy,208.65,UPI,Reference #7581
+42,2024-05-21,Priya Sharma,Food & Dining,Zomato Order,1116.58,Cash,
+469,2024-05-21,Priya Sharma,Shopping,Clothing Store,1814.16,Debit Card,
+379,2024-05-21,Rohan Das,Rent & Housing,House Maintenance,4677.96,UPI,
+73,2024-05-22,Sunita Patel,Transportation,Petrol Fill,709.73,UPI,
+420,2024-05-23,Anita Joshi,Food & Dining,Cafe Coffee,2249.84,Cash,Reference #9674
+195,2024-05-24,Anita Joshi,Personal Care,Cosmetics,746.35,UPI,
+168,2024-05-25,Anita Joshi,Food & Dining,Home Cooked Supplies,1131.79,Wallet,
+463,2024-05-25,Sunita Patel,Entertainment,Gaming,1408.82,Cash,Reference #1813
+282,2024-05-26,Priya Sharma,Personal Care,Skincare Products,760.9,UPI,
+264,2024-05-26,Arjun Mehta,Entertainment,Netflix Subscription,645.77,Wallet,
+102,2024-05-27,Anita Joshi,Entertainment,Netflix Subscription,1181.49,UPI,
+99,2024-05-27,Anita Joshi,Transportation,Petrol Fill,74.48,Wallet,Reference #8438
+7,2024-05-28,Priya Sharma,Food & Dining,Restaurant Bill,646.96,Cash,Reference #2654
+170,2024-05-28,Arjun Mehta,Entertainment,Netflix Subscription,1551.91,Debit Card,
+125,2024-05-30,Priya Sharma,Food & Dining,,19968.054515901982,Debit Card,Reference #8056
+471,2024-05-31,Arjun Mehta,Entertainment,Gaming,1345.26,Debit Card,Reference #7628
+484,2024-06-01,Sunita Patel,Food & Dining,Cafe Coffee,2077.23,Debit Card,
+285,2024-06-01,Arjun Mehta,Education,College Fee,3902.81,UPI,
+257,2024-06-01,Arjun Mehta,Travel,Hotel Stay,2592.55,Credit Card,
+293,2024-06-02,Sunita Patel,Entertainment,Movie Ticket,875.69,UPI,
+250,2024-06-02,Anita Joshi,Shopping,Amazon Purchase,3601.95,Debit Card,Reference #7035
+380,2024-06-03,Priya Sharma,Education,College Fee,3462.82,Credit Card,Reference #9348
+141,2024-06-04,Priya Sharma,Food & Dining,Zomato Order,2371.03,UPI,Reference #2592
+466,2024-06-05,Priya Sharma,Food & Dining,Home Cooked Supplies,1560.03,Wallet,
+475,2024-06-06,Arjun Mehta,Transportation,Petrol Fill,608.16,UPI,Reference #7089
+19,2024-06-06,Priya Sharma,Utilities,Mobile Recharge,1342.34,Net Banking,Reference #2290
+163,2024-06-07,Sunita Patel,Food & Dining,Grocery Shopping,755.85,Debit Card,Reference #1100
+189,2024-06-07,Rohan Das,Shopping,Flipkart Order,287.51,Credit Card,
+483,2024-06-08,Arjun Mehta,Food & Dining,Zomato Order,2204.76,Credit Card,
+405,2024-06-10,Arjun Mehta,Food & Dining,Home Cooked Supplies,726.38,UPI,Reference #6345
+11,2024-06-10,Priya Sharma,Food & Dining,Home Cooked Supplies,2362.98,Credit Card,Reference #9179
+89,2024-06-10,Sunita Patel,Food & Dining,,1831.08,Cash,
+211,2024-06-10,Priya Sharma,Education,College Fee,4486.06,Debit Card,
+419,2024-06-13,Rohan Das,Transportation,Petrol Fill,474.24,UPI,Reference #3946
+361,2024-06-14,Anita Joshi,Rent & Housing,Water Bill,9465.22,Cash,
+231,2024-06-14,Anita Joshi,Food & Dining,Restaurant Bill,495.18,Wallet,
+173,2024-06-15,Rohan Das,Rent & Housing,Room Rent,7860.39,Net Banking,
+188,2024-06-17,Priya Sharma,Rent & Housing,Room Rent,7520.15,Cash,
+107,2024-06-17,Sunita Patel,Health & Medical,Yoga Class,2587.43,UPI,Reference #9117
+24,2024-06-18,Priya Sharma,Food & Dining,Swiggy Delivery,2273.01,Cash,Reference #4899
+329,2024-06-19,Arjun Mehta,Rent & Housing,Society Charges,14385.88,Cash,
+47,2024-06-19,Arjun Mehta,Utilities,DTH Recharge,232.22,UPI,Reference #5065
+146,2024-06-19,Anita Joshi,Personal Care,Skincare Products,170.81,Credit Card,Reference #4362
+267,2024-06-20,Priya Sharma,Rent & Housing,Room Rent,10233.4,Net Banking,
+269,2024-06-21,Sunita Patel,Entertainment,Concert Ticket,126.76,Debit Card,Reference #4164
+70,2024-06-21,Sunita Patel,Transportation,Uber Ride,71.77,Wallet,
+115,2024-06-23,Sunita Patel,Entertainment,OTT Platform,1723.38,Net Banking,Reference #1042
+453,2024-06-25,Priya Sharma,Education,Books & Stationery,4403.64,UPI,
+292,2024-06-25,Rohan Das,Shopping,Grocery Mart,425.04,UPI,
+176,2024-06-27,Priya Sharma,Shopping,Grocery Mart,1130.74,Credit Card,Reference #3419
+433,2024-06-28,Sunita Patel,Food & Dining,Zomato Order,1763.62,Debit Card,Reference #1020
+160,2024-06-29,Priya Sharma,Travel,Taxi for Trip,5003.08,Cash,Reference #9313
+217,2024-06-29,Sunita Patel,Transportation,Auto Rickshaw,595.11,Net Banking,
+409,2024-07-01,Sunita Patel,Food & Dining,Swiggy Delivery,1806.78,UPI,
+5,2024-07-02,Sunita Patel,Food & Dining,Swiggy Delivery,1011.83,Debit Card,
+423,2024-07-02,Anita Joshi,Rent & Housing,Monthly Rent,11857.26,Cash,
+91,2024-07-03,Priya Sharma,Education,Books & Stationery,1833.11,Credit Card,
+300,2024-07-03,Anita Joshi,Health & Medical,Medicine,994.42,Net Banking,Reference #8635
+323,2024-07-03,Priya Sharma,Food & Dining,Zomato Order,839.84,Debit Card,Reference #3170
+144,2024-07-04,Arjun Mehta,Transportation,Uber Ride,762.92,Cash,
+184,2024-07-05,Rohan Das,Shopping,Clothing Store,3127.07,Credit Card,
+218,2024-07-05,Priya Sharma,Food & Dining,Home Cooked Supplies,1630.03,Net Banking,
+427,2024-07-05,Arjun Mehta,Entertainment,OTT Platform,1708.31,Cash,
+244,2024-07-06,Sunita Patel,Entertainment,Gaming,1551.33,Cash,
+357,2024-07-06,Priya Sharma,Rent & Housing,Monthly Rent,9517.27,UPI,
+8,2024-07-08,Rohan Das,Health & Medical,Pharmacy,1158.01,Debit Card,
+158,2024-07-09,Priya Sharma,Food & Dining,Swiggy Delivery,331.75,Credit Card,
+139,2024-07-09,Sunita Patel,Shopping,Flipkart Order,4147.6,Credit Card,Reference #8724
+468,2024-07-10,Priya Sharma,Shopping,Meesho Order,3379.31,Debit Card,Reference #5631
+307,2024-07-10,Arjun Mehta,Food & Dining,Swiggy Delivery,1313.76,Cash,
+199,2024-07-10,Priya Sharma,Transportation,Auto Rickshaw,347.34,Credit Card,Reference #2337
+207,2024-07-10,Rohan Das,Food & Dining,Home Cooked Supplies,1028.52,Debit Card,Reference #1266
+117,2024-07-12,Sunita Patel,Transportation,Petrol Fill,622.15,UPI,
+6,2024-07-12,Rohan Das,Shopping,Clothing Store,4870.96,Credit Card,
+477,2024-07-14,Arjun Mehta,Shopping,Electronics,4363.99,Debit Card,
+417,2024-07-15,Anita Joshi,Transportation,Auto Rickshaw,115.79,Credit Card,
+325,2024-07-16,Priya Sharma,Shopping,Electronics,3965.31,Credit Card,
+499,2024-07-16,Rohan Das,Travel,Holiday Package,2538.75,Wallet,
+245,2024-07-16,Arjun Mehta,Transportation,Auto Rickshaw,266.45,Net Banking,
+332,2024-07-20,Arjun Mehta,Rent & Housing,Room Rent,6363.6,Net Banking,
+131,2024-07-21,Sunita Patel,Food & Dining,Zomato Order,2092.09,Debit Card,
+331,2024-07-22,Arjun Mehta,Transportation,Petrol Fill,183.23,Debit Card,
+266,2024-07-22,Arjun Mehta,Travel,Flight Booking,772.55,UPI,
+238,2024-07-23,Sunita Patel,Entertainment,OTT Platform,1735.48,Credit Card,
+156,2024-07-23,Arjun Mehta,Transportation,Uber Ride,670.56,UPI,Reference #2557
+49,2024-07-23,Arjun Mehta,Food & Dining,Grocery Shopping,1684.08,Debit Card,
+152,2024-07-24,Priya Sharma,Food & Dining,Home Cooked Supplies,1249.56,UPI,
+385,2024-07-24,Anita Joshi,Entertainment,Book Purchase,904.79,Cash,
+486,2024-07-25,Arjun Mehta,Travel,Flight Booking,7386.54,Cash,
+459,2024-07-25,Arjun Mehta,Food & Dining,Swiggy Delivery,1802.97,Credit Card,Reference #1474
+410,2024-07-26,Sunita Patel,Education,College Fee,1282.4,UPI,Reference #5093
+324,2024-07-27,Rohan Das,Transportation,Ola Cab,466.06,Cash,Reference #2468
+67,2024-07-27,Arjun Mehta,Entertainment,Concert Ticket,222.03,Debit Card,
+46,2024-07-27,Sunita Patel,Education,Udemy Purchase,4478.61,Net Banking,
+334,2024-07-28,Sunita Patel,Education,Coaching Fee,811.21,Wallet,
+478,2024-07-28,Arjun Mehta,Food & Dining,Cafe Coffee,580.71,Net Banking,Reference #3346
+118,2024-07-29,Arjun Mehta,Shopping,Grocery Mart,1321.1,Credit Card,
+159,2024-07-29,Anita Joshi,Shopping,Grocery Mart,3416.06,Credit Card,
+434,2024-07-30,Rohan Das,Entertainment,Gaming,1941.29,UPI,
+205,2024-08-01,Priya Sharma,Health & Medical,Yoga Class,797.64,Credit Card,
+457,2024-08-01,Rohan Das,Entertainment,,709.65,Net Banking,Reference #2462
+491,2024-08-02,Sunita Patel,Health & Medical,Gym Membership,2132.11,Cash,Reference #2928
+69,2024-08-02,Sunita Patel,Rent & Housing,Room Rent,7679.84,UPI,
+4,2024-08-04,Priya Sharma,Entertainment,OTT Platform,403.35,Debit Card,Reference #3547
+374,2024-08-04,Sunita Patel,Education,Udemy Purchase,4946.7,Wallet,Reference #8826
+335,2024-08-04,Arjun Mehta,Rent & Housing,Monthly Rent,4849.72,UPI,
+21,2024-08-04,Arjun Mehta,Rent & Housing,Room Rent,13469.2,Cash,
+129,2024-08-05,Sunita Patel,Personal Care,Haircut,518.82,Wallet,
+415,2024-08-06,Rohan Das,Shopping,Flipkart Order,2037.1,Credit Card,Reference #4066
+391,2024-08-07,Priya Sharma,Entertainment,Concert Ticket,155.78,Debit Card,Reference #2046
+372,2024-08-07,Sunita Patel,Entertainment,Netflix Subscription,1534.94,Wallet,Reference #2559
+346,2024-08-07,Anita Joshi,Utilities,Mobile Recharge,784.45,Net Banking,Reference #4371
+26,2024-08-08,Rohan Das,Food & Dining,Cafe Coffee,332.63,Debit Card,
+438,2024-08-10,Rohan Das,Travel,Train Ticket,1737.48,Credit Card,Reference #2659
+388,2024-08-10,Arjun Mehta,Food & Dining,Cafe Coffee,306.91,Cash,Reference #1901
+198,2024-08-11,Sunita Patel,Transportation,Bus Pass,435.01,Cash,
+22,2024-08-12,Rohan Das,Personal Care,Spa,1009.83,Net Banking,Reference #2982
+219,2024-08-12,Arjun Mehta,Education,Udemy Purchase,3551.4,Cash,Reference #2101
+93,2024-08-13,Priya Sharma,Shopping,Amazon Purchase,2453.11,Credit Card,
+120,2024-08-13,Anita Joshi,Transportation,Metro Card Recharge,125.27,Cash,Reference #8486
+57,2024-08-14,Anita Joshi,Health & Medical,Yoga Class,1034.52,UPI,
+179,2024-08-14,Sunita Patel,Food & Dining,Grocery Shopping,263.89,Wallet,
+63,2024-08-14,Anita Joshi,Shopping,Grocery Mart,4760.19,Debit Card,
+193,2024-08-15,Sunita Patel,Health & Medical,Lab Test,788.84,Net Banking,Reference #8355
+489,2024-08-15,Priya Sharma,Food & Dining,Zomato Order,377.9,UPI,Reference #9966
+216,2024-08-16,Priya Sharma,Rent & Housing,Society Charges,6547.68,UPI,
+276,2024-08-16,Anita Joshi,Utilities,Internet Bill,3043.064217804313,UPI,
+223,2024-08-16,Priya Sharma,Rent & Housing,Room Rent,6123.48,Net Banking,
+28,2024-08-17,Priya Sharma,Food & Dining,Cafe Coffee,556.5,Credit Card,Reference #4006
+283,2024-08-17,Rohan Das,Transportation,Auto Rickshaw,718.5,UPI,
+448,2024-08-17,Anita Joshi,Food & Dining,Restaurant Bill,2378.21,Credit Card,
+96,2024-08-18,Anita Joshi,Food & Dining,Grocery Shopping,1354.17,UPI,Reference #8025
+83,2024-08-18,Arjun Mehta,Education,Coaching Fee,889.98,Credit Card,Reference #7209
+239,2024-08-18,Sunita Patel,Food & Dining,Restaurant Bill,394.05,Credit Card,Reference #2586
+180,2024-08-19,Sunita Patel,Shopping,Clothing Store,1689.96,Credit Card,Reference #5703
+108,2024-08-20,Rohan Das,Education,Books & Stationery,2975.43,Cash,Reference #5135
+31,2024-08-20,Rohan Das,Rent & Housing,,12408.85,Net Banking,Reference #8973
+16,2024-08-20,Sunita Patel,Food & Dining,Home Cooked Supplies,1143.44,Cash,
+460,2024-08-21,Arjun Mehta,Education,Books & Stationery,1622.71,Cash,Reference #4262
+60,2024-08-21,Rohan Das,Health & Medical,Yoga Class,2328.62,UPI,
+349,2024-08-22,Anita Joshi,Food & Dining,Restaurant Bill,944.76,Net Banking,
+356,2024-08-22,Arjun Mehta,Shopping,Electronics,1007.4,Debit Card,Reference #9369
+181,2024-08-24,Priya Sharma,Health & Medical,Gym Membership,1570.5,Net Banking,
+237,2024-08-25,Priya Sharma,Food & Dining,Grocery Shopping,1097.49,Credit Card,Reference #3353
+340,2024-08-25,Anita Joshi,Food & Dining,Swiggy Delivery,997.89,Wallet,Reference #9199
+294,2024-08-25,Arjun Mehta,Rent & Housing,Room Rent,11490.92,Cash,
+128,2024-08-26,Rohan Das,Rent & Housing,Room Rent,3112.77,Cash,Reference #3588
+227,2024-08-27,Priya Sharma,Transportation,Bus Pass,479.21,Net Banking,Reference #2412
+194,2024-08-28,Arjun Mehta,Rent & Housing,House Maintenance,12703.49,Cash,
+48,2024-08-28,Priya Sharma,Transportation,Bus Pass,79.04,Credit Card,Reference #8541
+243,2024-08-28,Anita Joshi,Utilities,Electricity Bill,1050.54,Net Banking,
+275,2024-08-29,Anita Joshi,Transportation,Uber Ride,576.46,Net Banking,
+455,2024-08-31,Sunita Patel,Entertainment,OTT Platform,193.65,Debit Card,Reference #1331
+64,2024-08-31,Anita Joshi,Transportation,Petrol Fill,169.37,UPI,
+182,2024-08-31,Anita Joshi,Health & Medical,,1032.43,Net Banking,
+481,2024-09-01,Rohan Das,Health & Medical,Doctor Consultation,1269.84,UPI,
+136,2024-09-03,Sunita Patel,Education,Books & Stationery,1656.37,Debit Card,
+82,2024-09-04,Sunita Patel,Health & Medical,Medicine,2766.89,UPI,Reference #5397
+342,2024-09-04,Sunita Patel,Transportation,Auto Rickshaw,205.15,Debit Card,
+236,2024-09-04,Anita Joshi,Rent & Housing,Society Charges,14479.8,Net Banking,
+458,2024-09-05,Arjun Mehta,Utilities,Internet Bill,729.32,UPI,
+368,2024-09-05,Sunita Patel,Shopping,Grocery Mart,826.85,UPI,Reference #1793
+143,2024-09-07,Arjun Mehta,Utilities,Internet Bill,1051.4,UPI,
+304,2024-09-08,Rohan Das,Travel,Flight Booking,5312.71,UPI,Reference #6770
+94,2024-09-08,Rohan Das,Food & Dining,Swiggy Delivery,256.82,Cash,Reference #1878
+106,2024-09-08,Arjun Mehta,Personal Care,Spa,710.24,Cash,
+440,2024-09-08,Priya Sharma,Food & Dining,Zomato Order,1472.25,Credit Card,Reference #6911
+399,2024-09-09,Arjun Mehta,Transportation,Uber Ride,493.77,Credit Card,
+103,2024-09-09,Rohan Das,Travel,Train Ticket,4253.54,UPI,
+424,2024-09-09,Anita Joshi,Food & Dining,Grocery Shopping,2376.08,Net Banking,
+354,2024-09-10,Rohan Das,Travel,Holiday Package,4290.79,UPI,
+110,2024-09-12,Arjun Mehta,Shopping,Amazon Purchase,3188.64,Debit Card,Reference #4335
+241,2024-09-12,Arjun Mehta,Shopping,Electronics,2670.68,UPI,Reference #1379
+254,2024-09-13,Arjun Mehta,Transportation,Auto Rickshaw,202.92,Net Banking,
+487,2024-09-15,Arjun Mehta,Food & Dining,Zomato Order,152.59,Credit Card,
+277,2024-09-15,Priya Sharma,Food & Dining,Swiggy Delivery,1414.36,Credit Card,Reference #9792
+206,2024-09-16,Sunita Patel,Food & Dining,,1362.54,Net Banking,Reference #1333
+473,2024-09-16,Rohan Das,Utilities,Mobile Recharge,1073.43,Net Banking,Reference #3967
+247,2024-09-17,Sunita Patel,Entertainment,Concert Ticket,478.21,UPI,Reference #1659
+113,2024-09-17,Arjun Mehta,Shopping,Electronics,3639.7,UPI,
+386,2024-09-18,Arjun Mehta,Rent & Housing,House Maintenance,6718.88,Cash,Reference #9788
+392,2024-09-18,Anita Joshi,Health & Medical,,1538.83,Debit Card,
+150,2024-09-19,Priya Sharma,Transportation,Ola Cab,633.51,Net Banking,
+204,2024-09-20,Rohan Das,Shopping,Grocery Mart,278.89,Debit Card,Reference #3352
+344,2024-09-21,Arjun Mehta,Utilities,Mobile Recharge,1162.64,Net Banking,
+197,2024-09-21,Anita Joshi,Travel,Hotel Stay,5835.51,Cash,
+373,2024-09-22,Rohan Das,Food & Dining,Cafe Coffee,1524.83,Wallet,Reference #1152
+248,2024-09-22,Arjun Mehta,Entertainment,Movie Ticket,1627.54,UPI,Reference #9446
+228,2024-09-26,Rohan Das,Personal Care,Spa,1106.42,UPI,Reference #2208
+310,2024-09-26,Anita Joshi,Food & Dining,Grocery Shopping,560.64,Debit Card,
+482,2024-09-28,Sunita Patel,Travel,Train Ticket,7190.05,Credit Card,
+33,2024-09-28,Anita Joshi,Transportation,,739.54,Credit Card,Reference #9320
+18,2024-09-28,Arjun Mehta,Transportation,Metro Card Recharge,171.16,Cash,
+20,2024-09-29,Rohan Das,Education,Udemy Purchase,4900.93,Credit Card,
+71,2024-09-30,Rohan Das,Utilities,,1474.94,Net Banking,Reference #1444
+488,2024-09-30,Priya Sharma,Transportation,Ola Cab,530.24,Net Banking,
+446,2024-10-01,Rohan Das,Education,Coaching Fee,2383.84,Wallet,
+407,2024-10-01,Rohan Das,Transportation,,354.88,Debit Card,Reference #8404
+347,2024-10-01,Priya Sharma,Shopping,Clothing Store,4037.61,Credit Card,
+53,2024-10-02,Rohan Das,Food & Dining,Home Cooked Supplies,2321.38,Wallet,Reference #4228
+439,2024-10-03,Arjun Mehta,Transportation,Uber Ride,465.58,Debit Card,Reference #5612
+66,2024-10-03,Sunita Patel,Food & Dining,Restaurant Bill,906.03,Cash,Reference #3471
+32,2024-10-04,Sunita Patel,Food & Dining,Home Cooked Supplies,240.36,Cash,Reference #6138
+305,2024-10-04,Anita Joshi,Shopping,Amazon Purchase,4601.12,UPI,Reference #9584
+445,2024-10-04,Priya Sharma,Food & Dining,Swiggy Delivery,925.1,UPI,
+418,2024-10-05,Anita Joshi,Food & Dining,Cafe Coffee,2485.81,Cash,
+256,2024-10-06,Arjun Mehta,Transportation,Uber Ride,449.85,Debit Card,
+202,2024-10-07,Priya Sharma,Rent & Housing,Room Rent,13019.56,Cash,
+56,2024-10-07,Arjun Mehta,Health & Medical,,972.75,Cash,Reference #5700
+29,2024-10-08,Arjun Mehta,Utilities,Gas Bill,298.0,Net Banking,
+88,2024-10-08,Anita Joshi,Transportation,Petrol Fill,797.47,Debit Card,Reference #8434
+225,2024-10-08,Sunita Patel,Health & Medical,Lab Test,2157.67,Net Banking,
+92,2024-10-10,Arjun Mehta,Rent & Housing,House Maintenance,14691.54,Net Banking,Reference #9042
+302,2024-10-10,Arjun Mehta,Entertainment,Concert Ticket,130.82,Net Banking,Reference #7841
+15,2024-10-10,Anita Joshi,Personal Care,,840.76,Cash,
+55,2024-10-10,Rohan Das,Rent & Housing,Society Charges,11366.5,Net Banking,
+161,2024-10-11,Rohan Das,Food & Dining,Zomato Order,359.72,Debit Card,
+474,2024-10-13,Rohan Das,Food & Dining,Home Cooked Supplies,720.76,Credit Card,
+12,2024-10-14,Rohan Das,Food & Dining,Grocery Shopping,435.11,Net Banking,
+317,2024-10-15,Rohan Das,Utilities,DTH Recharge,589.06,Net Banking,Reference #9856
+234,2024-10-15,Anita Joshi,Entertainment,Netflix Subscription,1249.76,Cash,Reference #2330
+37,2024-10-15,Priya Sharma,Food & Dining,Zomato Order,1590.78,Cash,Reference #9808
+79,2024-10-16,Anita Joshi,Education,Books & Stationery,4083.02,Cash,
+311,2024-10-16,Priya Sharma,Transportation,Uber Ride,354.52,Credit Card,Reference #4700
+235,2024-10-19,Anita Joshi,Rent & Housing,Monthly Rent,5529.7,Net Banking,
+25,2024-10-19,Rohan Das,Food & Dining,Cafe Coffee,417.55,Net Banking,
+326,2024-10-19,Anita Joshi,Utilities,,1471.62,UPI,Reference #3777
+494,2024-10-20,Priya Sharma,Health & Medical,Medicine,2729.95,Wallet,
+422,2024-10-21,Priya Sharma,Entertainment,,1900.82,UPI,Reference #3846
+480,2024-10-22,Sunita Patel,Food & Dining,Cafe Coffee,1956.5,Credit Card,Reference #2442
+435,2024-10-22,Priya Sharma,Education,Udemy Purchase,4049.28,Wallet,
+178,2024-10-23,Rohan Das,Transportation,Uber Ride,472.8,UPI,
+134,2024-10-23,Priya Sharma,Rent & Housing,House Maintenance,8289.88,Net Banking,
+35,2024-10-25,Priya Sharma,Health & Medical,Gym Membership,1315.75,Net Banking,
+127,2024-10-25,Rohan Das,Health & Medical,Pharmacy,798.41,Credit Card,
+44,2024-10-25,Arjun Mehta,Shopping,Electronics,4206.06,Debit Card,Reference #3088
+252,2024-10-25,Anita Joshi,Shopping,Meesho Order,3662.72,Debit Card,Reference #7229
+68,2024-10-26,Arjun Mehta,Education,Online Course,2252.65,Wallet,
+462,2024-10-27,Rohan Das,Food & Dining,Grocery Shopping,2189.15,Net Banking,Reference #6640
+297,2024-10-27,Anita Joshi,Food & Dining,Home Cooked Supplies,274.68,Wallet,
+452,2024-10-28,Priya Sharma,Transportation,Ola Cab,161.15,Net Banking,
+330,2024-10-31,Rohan Das,Education,Books & Stationery,4367.79,Credit Card,
+154,2024-11-01,Anita Joshi,Shopping,Electronics,1760.89,Debit Card,
+169,2024-11-02,Sunita Patel,Food & Dining,Zomato Order,1048.63,Cash,Reference #4349
+441,2024-11-03,Priya Sharma,Rent & Housing,Monthly Rent,10944.24,Net Banking,Reference #1421
+215,2024-11-04,Priya Sharma,Entertainment,Concert Ticket,249.96,Credit Card,Reference #5813
+167,2024-11-06,Sunita Patel,Transportation,Auto Rickshaw,368.01,UPI,Reference #5475
+153,2024-11-07,Rohan Das,Food & Dining,Zomato Order,293.9,Credit Card,Reference #3067
+429,2024-11-10,Arjun Mehta,Entertainment,Movie Ticket,1167.76,Debit Card,Reference #3872
+319,2024-11-10,Arjun Mehta,Education,Coaching Fee,2032.67,Net Banking,Reference #6347
+249,2024-11-11,Anita Joshi,Rent & Housing,Water Bill,7715.46,UPI,
+321,2024-11-12,Anita Joshi,Health & Medical,Pharmacy,348.51,Debit Card,Reference #2204
+416,2024-11-13,Rohan Das,Utilities,Internet Bill,245.04,UPI,
+162,2024-11-14,Rohan Das,Education,College Fee,4885.46,Net Banking,
+192,2024-11-15,Arjun Mehta,Food & Dining,Home Cooked Supplies,2095.23,Credit Card,Reference #8170
+54,2024-11-15,Priya Sharma,Travel,Train Ticket,7405.78,Debit Card,
+100,2024-11-16,Arjun Mehta,Utilities,Mobile Recharge,1224.18,UPI,Reference #7965
+65,2024-11-16,Sunita Patel,Entertainment,OTT Platform,1090.47,Credit Card,Reference #8206
+328,2024-11-16,Priya Sharma,Transportation,Metro Card Recharge,758.17,UPI,
+17,2024-11-16,Arjun Mehta,Shopping,Grocery Mart,710.77,Credit Card,
+377,2024-11-17,Arjun Mehta,Transportation,Bus Pass,591.82,Wallet,
+208,2024-11-17,Priya Sharma,Transportation,Metro Card Recharge,599.71,Cash,Reference #6447
+78,2024-11-17,Arjun Mehta,Food & Dining,Zomato Order,1757.47,Credit Card,
+479,2024-11-19,Arjun Mehta,Entertainment,OTT Platform,1026.4,Credit Card,Reference #1950
+185,2024-11-19,Sunita Patel,Health & Medical,Lab Test,251.86,Wallet,Reference #2079
+348,2024-11-23,Sunita Patel,Health & Medical,Gym Membership,1519.5,Debit Card,
+233,2024-11-24,Sunita Patel,Health & Medical,Gym Membership,370.94,Credit Card,Reference #3526
+183,2024-11-26,Sunita Patel,Personal Care,Salon Visit,218.06,Credit Card,
+412,2024-11-26,Rohan Das,Transportation,Metro Card Recharge,522.72,Cash,
+413,2024-11-26,Priya Sharma,Food & Dining,Restaurant Bill,2529.647058712569,UPI,
+212,2024-11-27,Anita Joshi,Transportation,,77.47,Credit Card,
+140,2024-11-27,Anita Joshi,Rent & Housing,Society Charges,10320.99,Net Banking,
+119,2024-11-29,Rohan Das,Transportation,Auto Rickshaw,547.77,Credit Card,Reference #1606
+39,2024-11-30,Anita Joshi,Entertainment,Netflix Subscription,1262.19,Net Banking,
+187,2024-12-01,Arjun Mehta,Utilities,DTH Recharge,603.3,UPI,
+155,2024-12-01,Priya Sharma,Education,College Fee,1014.86,Wallet,
+61,2024-12-01,Rohan Das,Shopping,Amazon Purchase,1371.13,Debit Card,Reference #7965
+186,2024-12-02,Anita Joshi,Health & Medical,Pharmacy,924.03,Net Banking,Reference #6461
+401,2024-12-02,Priya Sharma,Travel,Hotel Stay,510.97,UPI,Reference #2703
+151,2024-12-03,Anita Joshi,Food & Dining,Grocery Shopping,1979.74,Net Banking,
+116,2024-12-03,Sunita Patel,Education,Udemy Purchase,3109.66,UPI,
+133,2024-12-03,Anita Joshi,Rent & Housing,,12066.93,UPI,
+58,2024-12-05,Arjun Mehta,Health & Medical,Gym Membership,922.98,Wallet,Reference #6491
+255,2024-12-05,Anita Joshi,Food & Dining,Swiggy Delivery,880.12,UPI,Reference #7173
+142,2024-12-09,Anita Joshi,Food & Dining,Home Cooked Supplies,1188.75,Wallet,
+290,2024-12-10,Anita Joshi,Rent & Housing,House Maintenance,10175.01,Cash,
+309,2024-12-11,Sunita Patel,Food & Dining,Restaurant Bill,2051.58,UPI,
+122,2024-12-11,Rohan Das,Health & Medical,Medicine,2570.12,Net Banking,
+338,2024-12-12,Anita Joshi,Food & Dining,Cafe Coffee,2460.66,Wallet,
+137,2024-12-12,Priya Sharma,Food & Dining,Home Cooked Supplies,2419.6,Wallet,
+50,2024-12-13,Sunita Patel,Transportation,Petrol Fill,432.05,Net Banking,Reference #1452
+278,2024-12-14,Sunita Patel,Utilities,Gas Bill,774.39,Net Banking,Reference #9008
+229,2024-12-14,Sunita Patel,Health & Medical,Lab Test,1404.93,Net Banking,
+387,2024-12-14,Anita Joshi,Health & Medical,Doctor Consultation,2520.13,Wallet,
+14,2024-12-14,Priya Sharma,Food & Dining,Swiggy Delivery,483.96,UPI,Reference #2040
+449,2024-12-15,Arjun Mehta,Food & Dining,Restaurant Bill,288.08,UPI,
+465,2024-12-15,Rohan Das,Shopping,Flipkart Order,4350.22,Credit Card,
+408,2024-12-17,Sunita Patel,Utilities,Gas Bill,317.55,Net Banking,Reference #1660
+273,2024-12-17,Priya Sharma,Transportation,Uber Ride,169.79,Net Banking,
+41,2024-12-17,Anita Joshi,Food & Dining,Grocery Shopping,922.91,Wallet,
+251,2024-12-18,Priya Sharma,Personal Care,Salon Visit,917.18,Wallet,Reference #8775
+86,2024-12-19,Rohan Das,Shopping,Grocery Mart,3839.19,Debit Card,
+87,2024-12-20,Priya Sharma,Food & Dining,Grocery Shopping,631.83,Credit Card,
+336,2024-12-20,Rohan Das,Shopping,Amazon Purchase,2764.96,Debit Card,
+214,2024-12-20,Rohan Das,Transportation,Petrol Fill,190.11,UPI,Reference #9507
+365,2024-12-21,Priya Sharma,Transportation,Auto Rickshaw,612.35,Debit Card,Reference #8996
+456,2024-12-22,Sunita Patel,Rent & Housing,House Maintenance,13114.16,UPI,Reference #3201
+111,2024-12-23,Arjun Mehta,Utilities,Electricity Bill,769.55,Net Banking,
+403,2024-12-24,Arjun Mehta,Utilities,DTH Recharge,875.69,Cash,
+281,2024-12-24,Anita Joshi,Food & Dining,Swiggy Delivery,1116.87,Cash,
+3,2024-12-25,Priya Sharma,Shopping,,3636.89,Debit Card,
+389,2024-12-25,Arjun Mehta,Food & Dining,,1798.96,Cash,
+430,2024-12-25,Sunita Patel,Food & Dining,Cafe Coffee,1849.19,Net Banking,Reference #1530
+171,2024-12-26,Rohan Das,Food & Dining,Swiggy Delivery,1012.5,Credit Card,Reference #6802
+124,2024-12-26,Rohan Das,Personal Care,Spa,1164.52,Cash,
+43,2024-12-27,Sunita Patel,Food & Dining,,1160.41,UPI,Reference #1158
+201,2024-12-27,Rohan Das,Entertainment,Gaming,363.71,UPI,
+81,2024-12-28,Sunita Patel,Health & Medical,,2503.25,Credit Card,
+343,2024-12-29,Rohan Das,Rent & Housing,Water Bill,6603.17,Net Banking,
+200,2024-12-31,Priya Sharma,Rent & Housing,House Maintenance,4189.0,UPI,Reference #3254
+352,2024-03-29,Anita Joshi,Entertainment,Movie Ticket,1325.99,Net Banking,Reference #9022
+385,2024-07-24,Anita Joshi,Entertainment,Book Purchase,904.79,Cash,
+45,2024-01-21,Sunita Patel,Utilities,Mobile Recharge,1234.96,Cash,
+330,2024-10-31,Rohan Das,Education,Books & Stationery,4367.79,Credit Card,
+278,2024-12-14,Sunita Patel,Utilities,Gas Bill,774.39,Net Banking,Reference #9008

@@ -1,0 +1,63 @@
+============================================================
+   EXPENSE TRACKER APP – ANNUAL ANALYSIS REPORT
+   Generated : 2026-04-18 16:13:11
+============================================================
+
+📊 KEY PERFORMANCE INDICATORS
+----------------------------------------
+  Total Spend                 : ₹864,501.59
+  Avg Monthly Spend           : ₹72,041.80
+  Num Transactions            : 475
+  Avg Transaction             : ₹1,820.00
+  Max Transaction             : ₹8,580.70
+  Min Transaction             : ₹71.77
+  Top Category                : Food & Dining
+  Top Payment                 : UPI
+  Date Range                  : 2024-01-01 → 2024-12-31
+  Num Persons                 : 5
+
+📋 CATEGORY-WISE BREAKDOWN
+----------------------------------------
+  Category                  Total (₹)    Avg (₹)  Count    Share
+  ------------------------------------------------------------
+  Food & Dining            181,311.21   1,343.05    135    21.0%
+  Shopping                 169,260.16   2,969.48     57    19.6%
+  Rent & Housing           163,523.62   6,056.43     27    18.9%
+  Education                104,191.21   3,157.31     33    12.1%
+  Travel                    70,798.77   3,726.25     19     8.2%
+  Health & Medical          62,057.36   1,477.56     42     7.2%
+  Entertainment             35,599.04     936.82     38     4.1%
+  Transportation            33,343.35     444.58     75     3.9%
+  Utilities                 30,824.42     934.07     33     3.6%
+  Personal Care             13,592.45     849.53     16     1.6%
+
+📅 MONTHLY TREND
+----------------------------------------
+  Month         Total Spend  Transactions   MoM Growth
+  --------------------------------------------------
+  January      ₹  78,074.53            38          N/A
+  February     ₹  62,064.47            34       -20.5%
+  March        ₹  81,128.97            46       +30.7%
+  April        ₹  44,611.64            28       -45.0%
+  May          ₹  83,836.40            43       +87.9%
+  June         ₹  71,905.80            34       -14.2%
+  July         ₹  83,080.25            44       +15.5%
+  August       ₹  87,804.38            52        +5.7%
+  September    ₹  77,849.64            40       -11.3%
+  October      ₹  79,798.22            43        +2.5%
+  November     ₹  44,676.45            30       -44.0%
+  December     ₹  69,670.84            43       +56.0%
+
+🔍 AUTO-GENERATED INSIGHTS
+----------------------------------------
+  1. 💰 Total spend for the year: ₹864,501.59
+  2. 📊 Average monthly spend: ₹72,041.80
+  3. 🏆 Highest spending category: Food & Dining
+  4. 💳 Most preferred payment method: UPI
+  5. 📈 Peak spending month   : Aug (₹87,804.38)
+  6. 📉 Lowest spending month : Apr (₹44,611.64)
+  7. 📆 Weekend spending is ₹303 HIGHER than weekday average
+
+============================================================
+  END OF REPORT
+============================================================
