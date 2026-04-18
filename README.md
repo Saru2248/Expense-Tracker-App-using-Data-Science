@@ -8,7 +8,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green?style=for-the-badge\&logo=pandas)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 **A data-driven personal finance analytics system that transforms raw expense data into actionable insights, behavioral patterns, and interactive dashboards.**
 
